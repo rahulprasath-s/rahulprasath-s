@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=300&section=header&text=Rahulprasath%20Selvaraj&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20M.Sc.%20Student&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=300&section=header&text=Rahulprasath%20Selvaraj&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20AI%20Agent%20Specialist%20%7C%20Full%20Stack%20Dev%20%7C%20M.Sc.%20Student&descAlignY=55&descAlign=50" />
 </div>
 
 <h1 align="center">Hi there, I'm Rahul! 👋</h1>
@@ -88,8 +88,8 @@ I don't just write code; I build systems. Here are the core concepts I specializ
 
 ### 📜 **Certifications & Workshops**
 
-* [cite_start]**IBM & Google:** Online Certifications in Machine Learning, AI Fundamentals, and Cloud[cite: 50].
-* [cite_start]**Workshops:** AWS & DevOps, Responsible AI, MERN Bootcamp, Blockchain, Cyber Security[cite: 52].
+* **IBM & Google:** Online Certifications in Machine Learning, AI Fundamentals, and Cloud.
+* **Workshops:** AWS & DevOps, Responsible AI, MERN Bootcamp, Blockchain, Cyber Security.
 
 ---
 
