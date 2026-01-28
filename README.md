@@ -75,7 +75,7 @@ I don't just write code; I build systems. Here are the core concepts I specializ
 
 | **AI Specializations** | **Workflow & Ops** | **Soft Skills** |
 | :--- | :--- | :--- |
-| • **RAG** (Retrieval-Augmented Gen) <br> • **LLMs** & Prompt Engineering <br> • **NLP** & Vector Databases <br> • **OCR** & **Computer Vision** <br> • **Deep Learning** | • **Agentic Workflows** <br> • **Chain-of-Thought Prompting** <br> • **LLM Ops** <br> • **Backend Automation** <br> • **JSON Manipulation** | • Critical Thinking <br> • Pragmatic Problem Solving <br> • Logical Reasoning <br> • Independent Worker <br> • Adaptability |
+| • **RAG** (Retrieval-Augmented Gen) <br> • **Local Inference & SLMs** <br> • **Privacy-First AI Architecture** <br> • **NLP** & Vector Databases <br> • **OCR** & **Computer Vision** | • **Agentic Workflows** <br> • **Containerization (Docker)** <br> • **Microservices Architecture** <br> • **LLM Ops** & Evaluation <br> • **Chain-of-Thought Prompting** | • Critical Thinking <br> • Pragmatic Problem Solving <br> • Logical Reasoning <br> • Independent Worker <br> • Adaptability |
 
 ---
 
