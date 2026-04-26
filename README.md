@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Rahul! 👋</h1>
+<h1 align="center">Hi there, I'm Rahul!</h1>
 
 <p align="center">
-  <b>M.Sc. Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</b><br>
-  <i>Passionate about developing end-to-end AI solutions, RAG systems, and Agentic Workflows that drive efficiency.</i>
+  <b>M.Sc. [cite_start]Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</b> <br>
+  <i>Dedicated AI & ML enthusiast passionate about building AI-powered solutions that drives human efficiency.</i>
 </p>
 
 <div align="center">
@@ -16,10 +16,12 @@
 
 ### 🚀 **About Me**
 
-I am a Computer Science Engineer and currently a Master's student in **Human & Artificial Intelligence** based in **Nuremberg, Germany**. I combine a strong background in software development with advanced expertise in **Generative AI** and **Process Automation**.
+I am a Computer Science Engineer and currently a Master's student based in **Nuremberg, Germany**. I combine a strong technical foundation with a hands-on, experimental approach to **Generative AI** and **Process Automation**.
 
-- 🏆 **Recent Achievement:** Secured **3rd Prize** at the RTSH 2025 Hackathon by Start Nuremberg (Zollhof).
-- 🗣️ **Languages:** Tamil (Native), English (C1), German (A1).
+- 🧠 **Dedicated AI & ML Enthusiast:** I am constantly learning, trying, and experimenting with new architectures—from fine-tuning quantized models for edge computing to building agentic workflows.
+- 💡 **Bridging the Gap:** I have a strong interest in translating complex business needs into efficient, real-time technical solutions.
+- 🏆 **Recent Achievement:** Secured **3rd Prize** at the **RTSH 2025 Hackathon** by Start Nuremberg (Zollhof), working in an agile environment to pitch a workable AI model within 48 hours.
+- 🗣️ **Languages:** German (Beginner - A1),  English (Fluent - C1), Tamil (Native) and Hindi (Intermediate - B1).
 
 ---
 
