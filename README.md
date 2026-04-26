@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=300&section=header&text=Rahulprasath%20Selvaraj&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20AI%20Agent%20Specialist%20%7C%20Full%20Stack%20Dev%20%7C%20M.Sc.%20Student&descAlignY=55&descAlign=50" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=300&section=header&text=Rahulprasath%20Selvaraj&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20AI%20Agent%20Specialist%20%7C%20M.Sc.%20Student&descAlignY=55&descAlign=50" />
