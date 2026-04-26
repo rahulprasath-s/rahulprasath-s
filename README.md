@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rahul!</h1>
 
 <p align="center">
-  <b>M.Sc. [cite_start]Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</b> <br>
+  <b>M.Sc. Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</b> <br>
   <i>Dedicated AI & ML enthusiast passionate about building AI-powered solutions that drives human efficiency.</i>
 </p>
 
