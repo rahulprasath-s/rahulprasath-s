@@ -98,19 +98,6 @@ I don't just write code; I build systems. Here are the core concepts I specializ
 
 ---
 
-### ⚡ **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulprasath-s&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulprasath-s&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulprasath-s&theme=radical" alt="streak graph" />
-</div>
-
----
-
 <div align="center">
   <i>Let's connect and build something efficient!</i><br>
   <a href="https://linkedin.com/in/rahulprasath-s">LinkedIn</a> • <a href="mailto:rahulprasath17@gmail.com">Email</a>
