@@ -22,8 +22,8 @@
 
 I am a Computer Science Engineer and currently a Master's student in **Human & Artificial Intelligence** based in **Nuremberg, Germany**. I combine a strong background in software development with advanced expertise in **Generative AI** and **Process Automation**.
 
-- 🏆 **Recent Achievement:** Secured **3rd Prize** at the Start Nuremberg x Zollhof Hackathon (Nov 2025).
-- 🗣️ **Languages:** English (C1), German (A1 - Pursuing A2).
+- 🏆 **Recent Achievement:** Secured **3rd Prize** at the RTSH 2025 Hackathon by Start Nuremberg (Zollhof).
+- 🗣️ **Languages:** Tamil (Native), English (C1), German (A1).
 
 ---
 
@@ -57,8 +57,6 @@ I am a Computer Science Engineer and currently a Master's student in **Human & A
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=postman&logoColor=white)
 
 #### **Automation, DevOps & Tools**
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white)
@@ -71,8 +69,6 @@ I am a Computer Science Engineer and currently a Master's student in **Human & A
 
 ### 🧠 **Concepts & Capabilities**
 
-I don't just write code; I build systems. Here are the core concepts I specialize in:
-
 | **AI Specializations** | **Workflow & Ops** | **Soft Skills** |
 | :--- | :--- | :--- |
 | • **RAG** (Retrieval-Augmented Gen) <br> • **Local Inference & SLMs** <br> • **Privacy-First AI Architecture** <br> • **NLP** & Vector Databases <br> • **OCR** & **Computer Vision** | • **Agentic Workflows** <br> • **Containerization (Docker)** <br> • **Microservices Architecture** <br> • **LLM Ops** & Evaluation <br> • **Chain-of-Thought Prompting** | • Critical Thinking <br> • Pragmatic Problem Solving <br> • Logical Reasoning <br> • Independent Worker <br> • Adaptability |
@@ -83,18 +79,19 @@ I don't just write code; I build systems. Here are the core concepts I specializ
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **🏥 Careflow Intelligence** | `Ollama` `Qdrant` `Docker` `FastAPI` | A privacy-first **Local RAG** system designed for secure hospital knowledge management. Orchestrates offline LLM inference and vector search to ensure **100% data sovereignty** without cloud dependencies. |
-| **🤖 AI-Daily-Brief** | `N8N` `Gemini 2.5 Flash` `Notion` | Architected a multi-agent workflow that autonomously scouts, ranks, and summarizes AI research papers and AI news blogs. Features a **self-healing data feed**, Regex-based fallback parsers, and zero-marginal-cost operation. |
-| **🩺 Medical Report Summariser** | `LLAMA` `RAG` `OCR` | A GenAI system converting complex medical texts into patient-friendly summaries. Utilizes **OCR** for data extraction and **RAG** to minimize hallucinations and automate insight extraction. |
-| **🏭 FabricIRIS** | `OpenCV` `Computer Vision` | Real-time defect detection for textile production lines. Implemented algorithms to analyze visual data streams and automate quality control decisions. |
-| **🗣️ Sign2Say** | `MediaPipe` `NLP` | Low-latency system converting hand gestures into text and speech to enhance human-computer interaction accessibility. |
+| **🏥 Careflow Intelligence** | `Ollama` `Qdrant` `FastAPI` | A privacy-first **Local RAG** system designed for secure hospital knowledge management. Orchestrates offline LLM inference for **100% data sovereignty**. |
+| **🤖 AI-Daily-Brief** | `n8n` `Gemini` `Notion` | Architected a multi-agent workflow that autonomously scouts and summarizes AI research papers with a self-healing data feed. |
+| **🩺 Medical Report Summariser** | `Llama` `RAG` `OCR` | A GenAI system converting complex medical texts into patient-friendly summaries using OCR and RAG to minimize hallucinations. |
+| **🏭 FabricIRIS** | `OpenCV` `Python` | Real-time computer vision model developed for pattern recognition and defect detection within textile production lines. |
+| **🗣️ Sign2Say** | `MediaPipe` `NLP` | Low-latency system converting hand gestures into text and speech to enhance accessibility. |
 
 ---
 
 ### 📜 **Certifications & Workshops**
 
-* **IBM & Google:** Online Certifications in Machine Learning, AI Fundamentals, and Cloud.
-* **Workshops:** AWS & DevOps, Responsible AI, MERN Bootcamp, Blockchain, Cyber Security.
+* **IBM & Google:** Online Certifications in Machine Learning and AI Fundamentals.
+* **AWS & DevOps:** Specialized workshop training.
+* **Responsible AI & Cyber Security:** Ongoing professional development.
 
 ---
 
