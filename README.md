@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rahul!</h1>
+<h1 align="center">Rahulprasath Selvaraj</h1>
 
 <p align="center">
   <b>M.Sc. Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</b> <br>
