@@ -1,8 +1,9 @@
 <h1 align="center">Rahulprasath Selvaraj</h1>
 
 <p align="center">
-  <b>M.Sc. Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</b> <br>
-  <i>Dedicated AI & ML enthusiast passionate about building AI-powered solutions that drives human efficiency.</i>
+  
+  <b> AI & Automation enthusiast who's passionate about building AI-powered solutions that drives human efficiency.</b> <br>
+  <i> M.Sc. Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</i> 
 </p>
 
 <div align="center">
@@ -14,12 +15,10 @@
 
 ---
 
-### 🚀 **About Me**
-
-I am a Computer Science Engineer and currently a Master's student based in **Nuremberg, Germany**. I combine a strong technical foundation with a hands-on, experimental approach to **Generative AI** and **Process Automation**.
+###  **About**
 
 - 🧠 **Dedicated AI & ML Enthusiast:** I am constantly learning, trying, and experimenting with new architectures—from fine-tuning quantized models for edge computing to building agentic workflows.
-- 💡 **Bridging the Gap:** I have a strong interest in translating complex business needs into efficient, real-time technical solutions.
+- 💡 **Bridging the Gap:** Has a strong interest in translating complex needs and processes into efficient, real-time technical solutions.
 - 🏆 **Recent Achievement:** Secured **3rd Prize** at the **RTSH 2025 Hackathon** by Start Nuremberg (Zollhof), working in an agile environment to pitch a workable AI model within 48 hours.
 - 🗣️ **Languages:** German (Beginner - A1),  English (Fluent - C1), Tamil (Native) and Hindi (Intermediate - B1).
 
@@ -82,6 +81,13 @@ I am a Computer Science Engineer and currently a Master's student based in **Nur
 | **🩺 Medical Report Summariser** | `Llama` `RAG` `OCR` | A GenAI system converting complex medical texts into patient-friendly summaries using OCR and RAG to minimize hallucinations. |
 | **🏭 FabricIRIS** | `OpenCV` `Python` | Real-time computer vision model developed for pattern recognition and defect detection within textile production lines. |
 | **🗣️ Sign2Say** | `MediaPipe` `NLP` | Low-latency system converting hand gestures into text and speech to enhance accessibility. |
+
+---
+
+## Education
+ 
+* **M.Sc. Human & Artificial Intelligence** — University of Technology Nuremberg *(ongoing)*
+* **B.E. Computer Science Engineering** — Sri Eshwar College of Engineering · GPA: 8.17
 
 ---
 
