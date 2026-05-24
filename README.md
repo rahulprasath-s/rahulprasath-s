@@ -1,9 +1,8 @@
 <h1 align="center">Rahulprasath Selvaraj</h1>
 
 <p align="center">
-  
-  <b> AI & Automation enthusiast who's passionate about building AI-powered solutions that drives human efficiency.</b> <br>
-  <i> M.Sc. Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</i> 
+  <b>AI & ML Enthusiast | AI Agent Specialist passionate about building smart, resource-efficient local intelligence.</b> <br>
+  <i>M.Sc. Human & Artificial Intelligence Student at University of Technology Nuremberg (UTN)</i> 
 </p>
 
 <div align="center">
@@ -17,10 +16,10 @@
 
 ###  **About**
 
-- 🧠 **Dedicated AI & ML Enthusiast:** I am constantly learning, trying, and experimenting with new architectures—from fine-tuning quantized models for edge computing to building agentic workflows.
-- 💡 **Bridging the Gap:** Has a strong interest in translating complex needs and processes into efficient, real-time technical solutions.
-- 🏆 **Recent Achievement:** Secured **3rd Prize** at the **RTSH 2025 Hackathon** by Start Nuremberg (Zollhof), working in an agile environment to pitch a workable AI model within 48 hours.
-- 🗣️ **Languages:** German (Beginner - A1),  English (Fluent - C1), Tamil (Native) and Hindi (Intermediate - B1).
+- 🧠 **Dedicated AI & ML Enthusiast:** I spend my time experimenting with new architectures—from fine-tuning local models to setting up multi-agent automation loops and benchmarking sequence models.
+- 💡 **Context & Optimization:** Deeply interested in context engineering, edge caching, and making agentic workflows faster, localized, and cheaper to run.
+- 🏆 **Recent Achievement:** Secured **3rd Prize** at the **RTSH 2025 Hackathon** by Start Nuremberg (Zollhof), building and pitching a workable AI model under a tight 48-hour deadline.
+- 🗣️ **Languages:** German (Beginner - A1/A2), English (Fluent - C1), Tamil (Native), and Hindi (Intermediate - B1).
 
 ---
 
@@ -28,47 +27,40 @@
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 #### **AI, Generative AI & Data Science**
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude%20API-D97706?style=flat&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat&logo=ollama&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-C70039?style=flat&logo=qdrant&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-#### **Full Stack & Backend Development**
+#### **Full Stack, Automation & Tools**
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-#### **Automation, DevOps & Tools**
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 🧠 **Concepts & Capabilities**
 
-| **AI Specializations** | **Workflow & Ops** | **Soft Skills** |
+| **Context & Specializations** | **Workflow & Agentic Ops** | **Soft Skills** |
 | :--- | :--- | :--- |
-| • **RAG** (Retrieval-Augmented Gen) <br> • **Local Inference & SLMs** <br> • **Privacy-First AI Architecture** <br> • **NLP** & Vector Databases <br> • **OCR** & **Computer Vision** | • **Agentic Workflows** <br> • **Containerization (Docker)** <br> • **Microservices Architecture** <br> • **LLM Ops** & Evaluation <br> • **Chain-of-Thought Prompting** | • Critical Thinking <br> • Pragmatic Problem Solving <br> • Logical Reasoning <br> • Independent Worker <br> • Adaptability |
+| • **Context Engineering** <br> • **Context Lifecycle Management** <br> • **3D Spatial Data & Geometry** <br> • **Privacy-First AI Architecture** <br> • **RAG & Vector DBs** | • **Agentic Workflows** <br> • **Dynamic Prompt Caching** <br> • **Time-Series Forecasting** <br> • **Self-healing Automations** <br> • **Full-Stack MERN / Next.js** | • Pragmatic Problem Solving <br> • Critical Thinking <br> • Independent Worker <br> • Quick Learner <br> • Requirements Translation |
 
 ---
 
@@ -76,26 +68,29 @@
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **🏥 Careflow Intelligence** | `Ollama` `Qdrant` `FastAPI` | A privacy-first **Local RAG** system designed for secure hospital knowledge management. Orchestrates offline LLM inference for **100% data sovereignty**. |
-| **🤖 AI-Daily-Brief** | `n8n` `Gemini` `Notion` | Architected a multi-agent workflow that autonomously scouts and summarizes AI research papers with a self-healing data feed. |
-| **🩺 Medical Report Summariser** | `Llama` `RAG` `OCR` | A GenAI system converting complex medical texts into patient-friendly summaries using OCR and RAG to minimize hallucinations. |
-| **🏭 FabricIRIS** | `OpenCV` `Python` | Real-time computer vision model developed for pattern recognition and defect detection within textile production lines. |
-| **🗣️ Sign2Say** | `MediaPipe` `NLP` | Low-latency system converting hand gestures into text and speech to enhance accessibility. |
+| **⚡ Local Workspace Context Optimizer** | `Python` `Anthropic API` `Web UI` | Built a smart local memory layer that keeps workspace changes synced, compressed, and cached using Anthropic's prompt caching to drop API latency by 80-90%. |
+| **🏢 Archisight** | `React` `Node.js` `MongoDB` `Maps API` | Developed a full-stack web app that generates realistic 3D massing models from traced satellite map footprints or OSM geometry, featuring custom roof profiles and GLB exports. |
+| **📈 Mamba vs LSTM Benchmarking** | `PyTorch` `Python` | Conducted an architectural performance comparison evaluating Mamba vs LSTM for time-series forecasting tasks. |
+| **🏥 Careflow Intelligence** | `Ollama` `Qdrant` `FastAPI` | A privacy-first local RAG system designed for secure hospital document querying with zero external cloud dependencies. |
+| **🤖 AI-Daily-Brief** | `n8n` `Gemini` `Notion` | Architected an end-to-end multi-agent workflow that aggregates and summarizes daily AI research papers with built-in self-healing parsers. |
+| **🩺 Medical Report Summariser** | `Llama` `RAG` `OCR` | A GenAI system converting dense, complex clinical reports into structured, patient-friendly summaries. |
+| **🏭 FabricIRIS** | `OpenCV` `Python` | Real-time computer vision model built to handle textile production defect detection with low-latency visual data streams. |
+| **🗣️ Sign2Say** | `MediaPipe` `NLP` | Real-time gesture recognition system converting hand movements into text and speech outputs for accessibility. |
 
 ---
 
 ## Education
  
-* **M.Sc. Human & Artificial Intelligence** — University of Technology Nuremberg *(ongoing)*
+* **M.Sc. Human & Artificial Intelligence** — University of Technology Nuremberg *(Ongoing)*
 * **B.E. Computer Science Engineering** — Sri Eshwar College of Engineering · GPA: 8.17
 
 ---
 
 ### 📜 **Certifications & Workshops**
 
-* **IBM & Google:** Online Certifications in Machine Learning and AI Fundamentals.
-* **AWS & DevOps:** Specialized workshop training.
-* **Responsible AI & Cyber Security:** Ongoing professional development.
+* **Courses & Skill Badges:** Several verifications from Anthropic courses, Kaggle, Google Skills, and DataCamp.
+* **IBM & Google:** Online Certifications covering Machine Learning and AI Fundamentals.
+* **AWS & DevOps:** Specialized technical winter internship and hands-on workshop training.
 
 ---
 
