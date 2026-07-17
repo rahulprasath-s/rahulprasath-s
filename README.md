@@ -22,6 +22,17 @@
 - 🗣️ **Languages:** German (Beginner - A1/A2), English (Fluent - C1), Tamil (Native), and Hindi (Intermediate - B1).
 
 ---
+### 💼 **Experience**
+
+**Working Student - AI & Automation Engineer**  
+Soccerkinetics · Part-time  
+Jul 2026 - Present · Ingolstadt, Bavaria, Germany
+
+- Building AI-powered automation workflows to improve internal processes and human efficiency.
+- Supporting the development of practical, reliable AI solutions using LLMs, Python, and workflow automation.
+- Exploring scalable ways to connect AI systems with real-world business operations.
+
+---
 
 ### 💻 **Technical Arsenal**
 
