@@ -6,7 +6,7 @@ I build practical AI systems and automation workflows that improve how people wo
 
 Based in Nürnberg, Germany. Currently pursuing an M.Sc. in Human & Artificial Intelligence at the University of Technology Nuremberg and working part-time as an AI & Automation Engineer at Soccerkinetics.
 
-[LinkedIn](https://linkedin.com/in/rahulprasath-s) · [GitHub](https://github.com/rahulprasath-s) · [Email](mailto:rahulprasath17@gmail.com)
+[LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Email](mailto:rahulprasath17@gmail.com)
 
 ## Experience
 
