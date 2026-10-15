@@ -6,7 +6,7 @@ I build practical AI systems that turn information into useful tools and repeata
 
 Based in Nürnberg, Germany, I am pursuing an M.Sc. in Human & Artificial Intelligence at the University of Technology Nuremberg and working part-time as an AI & Automation Engineer at Soccerkinetics.
 
-[LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Email](mailto:rahulprasath17@gmail.com)
+[GitHub](https://github.com/rahulprasath-s) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Email](mailto:rahulprasath17@gmail.com)
 
 ## Experience
 
@@ -67,7 +67,7 @@ A fully local RAG system for querying sensitive medical documents while keeping 
 
 ## Contact
 
-I am open to discussing AI engineering, automation, and applied AI projects.
+Interested in building an LLM application, a local document retrieval system, or an automation workflow? I am open to discussing projects and collaboration in these areas.
 
 - Email: [rahulprasath17@gmail.com](mailto:rahulprasath17@gmail.com)
 - LinkedIn: [linkedin.com/in/rahulprasath-s](https://linkedin.com/in/rahulprasath-s)
