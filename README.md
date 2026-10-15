@@ -12,10 +12,10 @@ Based in Nürnberg, Germany, I am pursuing an M.Sc. in Human & Artificial Intell
 
 **Working Student — AI & Automation Engineer**
 
-Soccerkinetics · July 2026– October 2026
+Soccerkinetics · July 2026–October 2026
 
-- Build AI and automation workflows for practical product and operational use cases.
-- Connect data, tools, and AI systems into reliable day-to-day processes.
+- Build AI workflows and automations for product and operational tasks.
+- Integrate data sources, tools, and AI systems into reliable day-to-day processes.
 
 ## Core Skills
 
