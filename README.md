@@ -19,9 +19,10 @@ Soccerkinetics · July 2026–October 2026
 
 ## Core Skills
 
-- **AI engineering:** LLM applications, RAG, prompt engineering, structured outputs, prompt caching, Ollama, Qdrant
+- **AI engineering:** LLM applications, RAG, prompt engineering, structured outputs, prompt caching, Anthropic API, NVIDIA NIM
+- **Local AI and retrieval:** Ollama, Qdrant, privacy-first document retrieval
 - **Programming and backend:** Python, JavaScript, FastAPI, Node.js, SQL, MongoDB
-- **Automation and tools:** n8n, agentic workflows, Docker, Git, REST APIs
+- **Automation and deployment:** n8n, agentic workflows, GitHub Actions, Cloudflare Workers, Docker, Git, REST APIs, Notion API
 - **Applied AI:** PyTorch, LangChain, OpenCV, NLP, OCR
 
 ## Selected Projects
