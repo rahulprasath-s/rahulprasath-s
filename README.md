@@ -8,6 +8,13 @@ Based in Nürnberg, Germany, I am pursuing an M.Sc. in Human & Artificial Intell
 
 [GitHub](https://github.com/rahulprasath-s) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Email](mailto:rahulprasath17@gmail.com)
 
+## Currently Working On
+
+- **Backtester:** Building a backtesting tool for evaluating trading strategies on historical data.
+- **Quantitative Model:** Training a quantitative model as part of my ongoing work in quantitative research.
+
+Both projects are in progress.
+
 ## Experience
 
 **Working Student — AI & Automation Engineer**
