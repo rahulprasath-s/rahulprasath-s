@@ -73,6 +73,28 @@ A textile inspection application with live-camera and snapshot interfaces for de
 
 `Python` `Ultralytics YOLO` `OpenCV` `Core ML` `Streamlit`
 
+### Podcast Summarizer
+
+**Developed at Soccerkinetics.** A self-hosted application that resolves podcast sources, processes transcripts, and produces structured summaries with chapter segmentation.
+
+- Runs background jobs with PostgreSQL and Redis/RQ for persistent processing.
+- Uses local Qwen inference through Ollama with configurable cloud-model fallback, retry handling, and validation of word budgets and timestamps.
+
+`Next.js` `FastAPI` `PostgreSQL` `Redis/RQ` `Ollama` `Whisper` `Docker`
+
+### News Scraper — Financial News Monitoring
+
+**Developed at Soccerkinetics.** A locally hosted pipeline that collects German financial news and press releases, extracts stock identifiers, and resolves company names, tickers, WKNs, and ISINs.
+
+- Includes campaign-page discovery, promotion-warning signals, and daily regulatory-source monitoring.
+- Provides searchable dashboards for reviewing articles and linked financial instruments.
+
+`Python` `FastAPI` `SQLAlchemy` `SQLite` `Trafilatura` `RSS` `OpenFIGI`
+
+### Internal CRM
+
+**Contributed at Soccerkinetics.** An internal CRM that gives the sales team a shared place to coordinate lead outreach, divide tasks, and support go-to-market work.
+
 ## Education
 
 - **M.Sc. Human & Artificial Intelligence**, University of Technology Nuremberg — 2025–Present
