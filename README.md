@@ -27,29 +27,33 @@ Soccerkinetics · July 2026–October 2026
 
 ## Selected Projects
 
+### [AI-Daily-Brief](https://github.com/rahulprasath-s/AI-Daily-Brief)
+
+An automated AI news and research pipeline that collects content from arXiv, Hacker News, Hugging Face, and Techmeme, ranks news and summarizes items with NVIDIA NIM, and publishes a structured brief to Notion.
+
+- Runs twice daily through GitHub Actions, with up to five papers and ten news items per digest date.
+- Checks Notion history for duplicate links, titles, and similar news summaries.
+- Supports dated backfills, source debugging, and an automated regression suite.
+
+`Python` `GitHub Actions` `NVIDIA NIM` `Notion API` `Cloudflare Workers`
+
 ### Local Workspace Context Optimizer
 
-A privacy-first developer tool that compresses local workspace state into reusable context capsules using prompt caching and structured outputs.
+A privacy-first CLI that compresses local workspace state into reusable context capsules, using prompt caching and structured outputs to support repeated development tasks.
 
 `Python` `Anthropic API` `Prompt Caching` `CLI`
 
 ### Archisight
 
-A full-stack 3D visualization application that transforms searched or manually traced building footprints into configurable, exportable massing models.
+A full-stack 3D visualization application that turns searched or manually traced building footprints into configurable building massing models that users can export.
 
 `React` `Three.js` `Google Maps` `Express` `MongoDB`
 
 ### Careflow Intelligence
 
-A fully local RAG system for securely querying sensitive medical documents without sending data to external cloud services.
+A fully local RAG system for querying sensitive medical documents while keeping document processing and retrieval on local infrastructure.
 
 `Python` `FastAPI` `Ollama` `Qdrant` `Docker`
-
-### AI-Daily-Brief
-
-A multi-agent workflow that discovers, ranks, and summarizes AI research papers into a structured Notion knowledge base.
-
-`n8n` `Gemini` `Notion API` `Prompt Engineering`
 
 ## Education
 
