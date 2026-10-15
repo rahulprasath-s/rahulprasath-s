@@ -2,9 +2,9 @@
 
 **AI & Automation Engineer · M.Sc. Human & Artificial Intelligence Student**
 
-I build practical AI systems and automation workflows that improve how people work. My interests include LLM applications, retrieval-augmented generation, privacy-first local AI, prompt engineering, and reliable workflow automation.
+I build practical AI systems that turn information into useful tools and repeatable workflows. My work focuses on LLM applications, retrieval-augmented generation (RAG), privacy-first local AI, and reliable automation.
 
-Based in Nürnberg, Germany. Currently pursuing an M.Sc. in Human & Artificial Intelligence at the University of Technology Nuremberg and working part-time as an AI & Automation Engineer at Soccerkinetics.
+Based in Nürnberg, Germany, I am pursuing an M.Sc. in Human & Artificial Intelligence at the University of Technology Nuremberg and working part-time as an AI & Automation Engineer at Soccerkinetics.
 
 [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Email](mailto:rahulprasath17@gmail.com)
 
