@@ -25,7 +25,7 @@ Soccerkinetics · July 2026–October 2026
 - **Automation and deployment:** n8n, agentic workflows, GitHub Actions, Cloudflare Workers, Docker, Git, REST APIs, Notion API
 - **Applied AI:** PyTorch, LangChain, OpenCV, NLP, OCR
 
-## Selected Projects
+## Projects
 
 ### [AI-Daily-Brief](https://github.com/rahulprasath-s/AI-Daily-Brief)
 
@@ -41,19 +41,37 @@ An automated AI news and research pipeline that collects content from arXiv, Hac
 
 A privacy-first CLI that compresses local workspace state into reusable context capsules, using prompt caching and structured outputs to support repeated development tasks.
 
+- Includes a workspace scanner, polling watcher, CLI, and local web UI for repository snapshots and context capsules.
+- Tracks prompt-cache reuse with a token-usage ledger and supports offline capsule generation with secret-file and dependency exclusions.
+
 `Python` `Anthropic API` `Prompt Caching` `CLI`
 
 ### Archisight
 
 A full-stack 3D visualization application that turns searched or manually traced building footprints into configurable building massing models that users can export.
 
-`React` `Three.js` `Google Maps` `Express` `MongoDB`
+- Supports configurable roof styles and integrates Google Maps and Places, OpenStreetMap/Overpass, Nominatim, and satellite contour extraction.
+- Uses fallback geometry and camera scaling to handle different building sizes.
+
+`React` `Three.js` `React Three Fiber` `Google Maps` `Node.js` `Express` `MongoDB`
 
 ### Careflow Intelligence
 
 A fully local RAG system for querying sensitive medical documents while keeping document processing and retrieval on local infrastructure.
 
-`Python` `FastAPI` `Ollama` `Qdrant` `Docker`
+- Combines medical PDF ingestion, overlapping text chunks, MiniLM embeddings, and cosine-similarity search.
+- Returns source metadata with retrieved passages through FastAPI and runs with Ollama in a Docker Compose setup.
+
+`Python` `FastAPI` `Streamlit` `Sentence Transformers` `Ollama` `Qdrant` `Docker`
+
+### FabricIRIS — Textile Defect Detection
+
+A textile inspection application with live-camera and snapshot interfaces for detecting fabric defects using YOLO.
+
+- Applies region-of-interest cropping, confidence filtering, and annotated detection boxes.
+- Supports Core ML models for Apple Silicon, a PyTorch-weight fallback in the live detector, and a Streamlit camera interface for snapshot analysis.
+
+`Python` `Ultralytics YOLO` `OpenCV` `Core ML` `Streamlit`
 
 ## Education
 
