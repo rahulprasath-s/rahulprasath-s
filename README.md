@@ -49,6 +49,17 @@ Most of my projects start with a practical question. Can I keep document questio
   </tr>
 </table>
 
+<details>
+<summary>More experiments and side projects</summary>
+
+- [FabricIRIS](https://github.com/rahulprasath-s/FabricIRIS-Textile-Defect): textile defect detection with YOLO and Core ML.
+- [Sign2Say](https://github.com/rahulprasath-s/Sign2Say): hand gestures turned into text and speech.
+- [Crypto Dashboard CLI](https://github.com/rahulprasath-s/Crypto-Data-in-CLI): cryptocurrency market data in the terminal.
+- [Quiz AI](https://github.com/rahulprasath-s/Quiz-AI): a quiz experience built with Vue and TypeScript.
+- [Claude Code Warmup](https://github.com/rahulprasath-s/claude-code-warmup): a scheduled serverless AI warmup workflow.
+
+</details>
+
 ## On my desk lately
 
 I'm exploring quantitative research and the foundations of backtesting. My [ML trading system](https://github.com/rahulprasath-s/ml-trading-system) currently focuses on historical market-data collection and validation: checking timestamps, gaps, and bid/ask data before building on top of it.
@@ -66,8 +77,19 @@ Soccerkinetics · July–October 2026
 
 Built podcast summarization and financial-news monitoring tools, worked on backend integrations and background processing, and contributed to an internal CRM for the sales team. It gave me experience connecting AI features to the everyday work around them.
 
+## A little background
+
+- **M.Sc. Human & Artificial Intelligence**, University of Technology Nuremberg, 2025–present.
+- **B.E. Computer Science Engineering**, Sri Eshwar College of Engineering, 2021–2025.
+- **3rd prize at RTSH 2025**, building and pitching an AI prototype in 48 hours.
+- Co-authored [AI in Healthcare: Simplifying Medical Reports for Enhanced Patient Comprehension](https://ieeexplore.ieee.org/abstract/document/11108371), published at ETCC 2025.
+
+---
+
 ## Let's talk
 
 I'm happy to talk about applied AI, useful automation, or a project you're trying to get off the ground.
 
 [Email me](mailto:rahulprasathselvaraj@gmail.com) · [Connect on LinkedIn](https://linkedin.com/in/rahulprasath-s)
+
+For the longer version, [my portfolio has the projects, research, and experience in one place](https://portfolio-nu-khaki-48.vercel.app).
