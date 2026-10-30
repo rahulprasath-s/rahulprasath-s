@@ -1,95 +1,65 @@
-# Hi, I'm Rahul.
+# Rahulprasath Selvaraj
 
-<img align="right" src="https://raw.githubusercontent.com/rahulprasath-s/portfolio/main/public/profile-picture.jpg" alt="Portrait of Rahulprasath Selvaraj" width="160" />
+**AI & Automation Engineer | M.Sc. Human & Artificial Intelligence | Nuremberg, Germany**
 
-**Rahulprasath Selvaraj · AI & Automation Engineer · Nuremberg, Germany**
+I develop AI applications, automated data pipelines, and full-stack tools, with a focus on LLM integration, retrieval-augmented generation, and reliable backend systems. I am pursuing an M.Sc. in Human & Artificial Intelligence at the University of Technology Nuremberg, building on a B.E. in Computer Science Engineering.
 
-I like the moment when a messy, repetitive task turns into a tool someone can actually use. That's what keeps me building: AI applications, small automations, and the occasional detour into computer vision or 3D maps.
+As a working student at **Soccerkinetics (July–October 2026)**, I developed podcast summarization and financial-news monitoring applications and contributed to an internal CRM. My work involved API integrations, background processing, structured extraction, and persistent data storage.
 
-I'm studying **M.Sc. Human & Artificial Intelligence at the University of Technology Nuremberg**. I'm interested in both sides of that name: how the technology works, and how people experience it.
+[Portfolio](https://portfolio-nu-khaki-48.vercel.app) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Email](mailto:rahulprasathselvaraj@gmail.com)
 
-Most of my projects start with a practical question. Can I keep document questions local? Can an AI assistant remember a workspace without sending the same context again? Can a building on a map become something I can explore in 3D?
+## Experience
 
-[Visit my portfolio](https://portfolio-nu-khaki-48.vercel.app) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Say hello](mailto:rahulprasathselvaraj@gmail.com)
+**Soccerkinetics — AI & Automation Engineer, Working Student**  
+July–October 2026
 
-<br clear="all" />
+- Developed a podcast summarization application with transcript processing, chapter segmentation, and structured summaries using local inference and configurable model fallback.
+- Built a financial-news monitoring pipeline for collecting German news and press releases, extracting stock identifiers, and reviewing articles through searchable dashboards.
+- Contributed to an internal CRM supporting lead outreach, task coordination, and sales workflows.
+- Implemented backend services and background jobs using Python, FastAPI, PostgreSQL, Redis/RQ, and Docker, with Next.js interfaces.
 
----
+## Selected Projects
 
-## A few things I've built
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rahulprasath-s/Local-Workspace-Context-Optimizer"><img src="https://raw.githubusercontent.com/rahulprasath-s/portfolio/main/public/project-local-workspace-context-optimizer.jpg" alt="Local Workspace Context Optimizer project artwork" width="420" /></a>
-      <h3><a href="https://github.com/rahulprasath-s/Local-Workspace-Context-Optimizer">Local Workspace Context Optimizer</a></h3>
-      <p>Less repeated context. Workspace snapshots, reusable capsules, and prompt caching for AI-assisted development.</p>
-      <p><code>Python</code> <code>Anthropic API</code> <code>Context engineering</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rahulprasath-s/3D-Visualization-of-Buildings"><img src="https://raw.githubusercontent.com/rahulprasath-s/portfolio/main/public/archi-sight-v2.jpg" alt="Archisight 3D building visualization project artwork" width="420" /></a>
-      <h3><a href="https://github.com/rahulprasath-s/3D-Visualization-of-Buildings">Archisight</a></h3>
-      <p>From a footprint on a map to a model you can explore. Search or trace buildings, choose roof styles, and export in 3D.</p>
-      <p><code>React</code> <code>Three.js</code> <code>Geospatial APIs</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rahulprasath-s/AI-Daily-Brief"><img src="https://raw.githubusercontent.com/rahulprasath-s/portfolio/main/public/project-ai-daily-brief-v2.jpg" alt="AI Daily Brief project artwork" width="420" /></a>
-      <h3><a href="https://github.com/rahulprasath-s/AI-Daily-Brief">AI Daily Brief</a></h3>
-      <p>Keeping up with AI, with less tab hopping. Collects research and news and publishes a structured brief to Notion.</p>
-      <p><code>Python</code> <code>Automation</code> <code>Notion API</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rahulprasath-s/Careflow_Intelligence"><img src="https://raw.githubusercontent.com/rahulprasath-s/portfolio/main/public/project-careflow-intelligence-v2.jpg" alt="Careflow Intelligence local document retrieval project artwork" width="420" /></a>
-      <h3><a href="https://github.com/rahulprasath-s/Careflow_Intelligence">Careflow Intelligence</a></h3>
-      <p>Ask questions about medical PDFs on local infrastructure, with retrieved passages that show where answers come from.</p>
-      <p><code>RAG</code> <code>Ollama</code> <code>Qdrant</code></p>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+| --- | --- |
+| [Local Workspace Context Optimizer](https://github.com/rahulprasath-s/Local-Workspace-Context-Optimizer) | Workspace scanning, reusable context capsules, and prompt caching for AI-assisted development. |
+| [Archisight](https://github.com/rahulprasath-s/3D-Visualization-of-Buildings) | Interactive 3D building models generated from searched or manually traced footprints, with roof controls and export. |
+| [AI Daily Brief](https://github.com/rahulprasath-s/AI-Daily-Brief) | Automated collection and summarization of AI research and news, published as structured briefs in Notion. |
+| [Careflow Intelligence](https://github.com/rahulprasath-s/Careflow_Intelligence) | Local document retrieval and question answering for medical PDFs, with source passages. |
+| [Mamba vs LSTM Forecasting](https://github.com/rahulprasath-s/mamba-vs-lstm-forecasting) | A comparative benchmark for climate time-series forecasting using PyTorch. |
 
 <details>
-<summary>More experiments and side projects</summary>
+<summary>Additional projects</summary>
 
 - [FabricIRIS](https://github.com/rahulprasath-s/FabricIRIS-Textile-Defect): textile defect detection with YOLO and Core ML.
-- [Sign2Say](https://github.com/rahulprasath-s/Sign2Say): hand gestures turned into text and speech.
+- [Sign2Say](https://github.com/rahulprasath-s/Sign2Say): hand-gesture recognition with text and speech output.
 - [Crypto Dashboard CLI](https://github.com/rahulprasath-s/Crypto-Data-in-CLI): cryptocurrency market data in the terminal.
-- [Quiz AI](https://github.com/rahulprasath-s/Quiz-AI): a quiz experience built with Vue and TypeScript.
+- [Quiz AI](https://github.com/rahulprasath-s/Quiz-AI): a quiz application built with Vue and TypeScript.
 - [Claude Code Warmup](https://github.com/rahulprasath-s/claude-code-warmup): a scheduled serverless AI warmup workflow.
 
 </details>
 
-## On my desk lately
+## Current Focus
 
-I'm exploring quantitative research and the foundations of backtesting. My [ML trading system](https://github.com/rahulprasath-s/ml-trading-system) currently focuses on historical market-data collection and validation: checking timestamps, gaps, and bid/ask data before building on top of it.
+Exploring quantitative research and backtesting, with current work on [historical market-data collection and validation](https://github.com/rahulprasath-s/ml-trading-system). The repository focuses on data integrity, timestamps, and bid/ask records as a foundation for further analysis.
 
-I also enjoy comparing ideas through experiments, like [Mamba vs LSTM for climate time-series forecasting](https://github.com/rahulprasath-s/mamba-vs-lstm-forecasting).
+## Technical Skills
 
-## Tools I reach for
+- **Languages:** Python, TypeScript, JavaScript, SQL.
+- **AI applications:** RAG, context engineering, prompt caching, structured outputs, Ollama, Qdrant, and LLM APIs.
+- **Web and data:** FastAPI, React, Next.js, PostgreSQL, MongoDB, Redis/RQ, and REST APIs.
+- **Deployment and automation:** Docker, GitHub Actions, Cloudflare, and n8n.
+- **Applied ML and visualization:** PyTorch, OpenCV, YOLO, Three.js, and geospatial APIs.
 
-**Python, TypeScript, and SQL** for most of the work. **FastAPI, React, and Next.js** for turning it into something usable. **Ollama, Qdrant, and LLM APIs** for retrieval and AI features. **Docker, GitHub Actions, and Cloudflare** for running things beyond my laptop.
-
-## Where I've put this into practice
-
-**AI & Automation Engineer · Working Student**  
-Soccerkinetics · July–October 2026
-
-Built podcast summarization and financial-news monitoring tools, worked on backend integrations and background processing, and contributed to an internal CRM for the sales team. It gave me experience connecting AI features to the everyday work around them.
-
-## A little background
+## Education & Highlights
 
 - **M.Sc. Human & Artificial Intelligence**, University of Technology Nuremberg, 2025–present.
 - **B.E. Computer Science Engineering**, Sri Eshwar College of Engineering, 2021–2025.
-- **3rd prize at RTSH 2025**, building and pitching an AI prototype in 48 hours.
-- Co-authored [AI in Healthcare: Simplifying Medical Reports for Enhanced Patient Comprehension](https://ieeexplore.ieee.org/abstract/document/11108371), published at ETCC 2025.
+- **3rd prize, RTSH 2025 Hackathon:** built and pitched an AI prototype within 48 hours.
+- **Research:** [AI in Healthcare: Simplifying Medical Reports for Enhanced Patient Comprehension](https://ieeexplore.ieee.org/abstract/document/11108371), ETCC 2025.
 
----
+## Contact
 
-## Let's talk
+Open to discussions about AI engineering, automation, and applied research.
 
-I'm happy to talk about applied AI, useful automation, or a project you're trying to get off the ground.
-
-[Email me](mailto:rahulprasathselvaraj@gmail.com) · [Connect on LinkedIn](https://linkedin.com/in/rahulprasath-s)
-
-For the longer version, [my portfolio has the projects, research, and experience in one place](https://portfolio-nu-khaki-48.vercel.app).
+[rahulprasathselvaraj@gmail.com](mailto:rahulprasathselvaraj@gmail.com) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Portfolio](https://portfolio-nu-khaki-48.vercel.app)
