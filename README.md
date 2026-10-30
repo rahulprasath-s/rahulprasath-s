@@ -49,6 +49,16 @@ Most of my projects start with a practical question. Can I keep document questio
   </tr>
 </table>
 
+## On my desk lately
+
+I'm exploring quantitative research and the foundations of backtesting. My [ML trading system](https://github.com/rahulprasath-s/ml-trading-system) currently focuses on historical market-data collection and validation: checking timestamps, gaps, and bid/ask data before building on top of it.
+
+I also enjoy comparing ideas through experiments, like [Mamba vs LSTM for climate time-series forecasting](https://github.com/rahulprasath-s/mamba-vs-lstm-forecasting).
+
+## Tools I reach for
+
+**Python, TypeScript, and SQL** for most of the work. **FastAPI, React, and Next.js** for turning it into something usable. **Ollama, Qdrant, and LLM APIs** for retrieval and AI features. **Docker, GitHub Actions, and Cloudflare** for running things beyond my laptop.
+
 ## Where I've put this into practice
 
 **AI & Automation Engineer · Working Student**  
