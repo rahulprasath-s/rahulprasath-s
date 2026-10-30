@@ -1,5 +1,7 @@
 # Hi, I'm Rahul.
 
+<img align="right" src="https://raw.githubusercontent.com/rahulprasath-s/portfolio/main/public/profile-picture.jpg" alt="Portrait of Rahulprasath Selvaraj" width="160" />
+
 **Rahulprasath Selvaraj · AI & Automation Engineer · Nuremberg, Germany**
 
 I like the moment when a messy, repetitive task turns into a tool someone can actually use. That's what keeps me building: AI applications, small automations, and the occasional detour into computer vision or 3D maps.
@@ -9,6 +11,8 @@ I'm studying **M.Sc. Human & Artificial Intelligence at the University of Techno
 Most of my projects start with a practical question. Can I keep document questions local? Can an AI assistant remember a workspace without sending the same context again? Can a building on a map become something I can explore in 3D?
 
 [Visit my portfolio](https://portfolio-nu-khaki-48.vercel.app) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Say hello](mailto:rahulprasathselvaraj@gmail.com)
+
+<br clear="all" />
 
 ---
 
