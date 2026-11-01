@@ -24,7 +24,7 @@ July–October 2026
 | --- | --- |
 | [Local Workspace Context Optimizer](https://github.com/rahulprasath-s/Local-Workspace-Context-Optimizer) | Workspace scanning, reusable context capsules, and prompt caching for AI-assisted development. |
 | [Archisight](https://github.com/rahulprasath-s/3D-Visualization-of-Buildings) | Interactive 3D building models generated from searched or manually traced footprints, with roof controls and export. |
-| [AI Daily Brief](https://github.com/rahulprasath-s/AI-Daily-Brief) | Collects AI news from Hacker News, Hugging Face, and Techmeme, ranks all eligible candidates with NVIDIA NIM, and publishes up to 10 relevant news summaries to Notion. Runs daily at 08:00 Berlin time via GitHub Actions with automatic daylight-saving adjustment and historical duplicate checks. |
+| [AI Daily Brief](https://github.com/rahulprasath-s/AI-Daily-Brief) | Ranks and summarizes the top 10 AI news items for a daily Notion brief at 08:00 Berlin time. |
 | [Careflow Intelligence](https://github.com/rahulprasath-s/Careflow_Intelligence) | Local document retrieval and question answering for medical PDFs, with source passages. |
 | [Mamba vs LSTM Forecasting](https://github.com/rahulprasath-s/mamba-vs-lstm-forecasting) | A comparative benchmark for climate time-series forecasting using PyTorch. |
 
