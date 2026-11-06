@@ -22,6 +22,7 @@ July–October 2026
 
 | Project | Description |
 | --- | --- |
+| [Narrator](https://github.com/rahulprasath-s/Narrator) | Uses Claude to turn academic and philosophical text into editable spoken scripts, with local PDF text extraction and browser-based voice playback. |
 | [Local Workspace Context Optimizer](https://github.com/rahulprasath-s/Local-Workspace-Context-Optimizer) | Workspace scanning, reusable context capsules, and prompt caching for AI-assisted development. |
 | [Archisight](https://github.com/rahulprasath-s/3D-Visualization-of-Buildings) | Interactive 3D building models generated from searched or manually traced footprints, with roof controls and export. |
 | [AI Daily Brief](https://github.com/rahulprasath-s/AI-Daily-Brief) | Ranks and summarizes the top 10 AI news items for a daily Notion brief at 08:00 Berlin time. |
@@ -41,13 +42,16 @@ July–October 2026
 
 ## Current Focus
 
-Exploring quantitative research and backtesting, with current work on [historical market-data collection and validation](https://github.com/rahulprasath-s/ml-trading-system). The repository focuses on data integrity, timestamps, and bid/ask records as a foundation for further analysis.
+- **[Narrator](https://github.com/rahulprasath-s/Narrator):** Developing a Streamlit application that uses Claude to make dense academic and philosophical text easier to listen to, with editable scripts, local PDF parsing, and browser voice controls.
+- **Backtester:** Building a tool for evaluating trading strategies against historical data.
+- **[ML trading system](https://github.com/rahulprasath-s/ml-trading-system):** Ongoing work on historical market-data collection and validation as a foundation for quantitative analysis.
 
 ## Technical Skills
 
 - **Languages:** Python, TypeScript, JavaScript, SQL.
 - **AI applications:** RAG, context engineering, prompt caching, structured outputs, Ollama, Qdrant, and LLM APIs.
 - **Web and data:** FastAPI, React, Next.js, PostgreSQL, MongoDB, Redis/RQ, and REST APIs.
+- **Document and speech processing:** Streamlit, pdfplumber, PDF text extraction, and browser speech synthesis with the Web Speech API.
 - **Deployment and automation:** Docker, GitHub Actions, Cloudflare, and n8n.
 - **Applied ML and visualization:** PyTorch, OpenCV, YOLO, Three.js, and geospatial APIs.
 
