@@ -22,7 +22,7 @@ July–October 2026
 
 | Project | Description |
 | --- | --- |
-| [Narrator](https://github.com/rahulprasath-s/Narrator) | Uses Claude to turn academic and philosophical text into editable spoken scripts, with local PDF text extraction and browser-based voice playback. |
+| [Narrator](https://github.com/rahulprasath-s/Narrator) | Turns academic and philosophical text into clear spoken explanations using Claude, with local PDF extraction, a React reading interface, and browser voice playback with synchronized highlighting. |
 | [Local Workspace Context Optimizer](https://github.com/rahulprasath-s/Local-Workspace-Context-Optimizer) | Workspace scanning, reusable context capsules, and prompt caching for AI-assisted development. |
 | [Archisight](https://github.com/rahulprasath-s/3D-Visualization-of-Buildings) | Interactive 3D building models generated from searched or manually traced footprints, with roof controls and export. |
 | [AI Daily Brief](https://github.com/rahulprasath-s/AI-Daily-Brief) | Ranks and summarizes the top 10 AI news items for a daily Notion brief at 08:00 Berlin time. |
@@ -42,7 +42,6 @@ July–October 2026
 
 ## Current Focus
 
-- **[Narrator](https://github.com/rahulprasath-s/Narrator):** Developing a Streamlit application that uses Claude to make dense academic and philosophical text easier to listen to, with editable scripts, local PDF parsing, and browser voice controls.
 - **Backtester:** Building a tool for evaluating trading strategies against historical data.
 - **[ML trading system](https://github.com/rahulprasath-s/ml-trading-system):** Ongoing work on historical market-data collection and validation as a foundation for quantitative analysis.
 
