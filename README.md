@@ -40,11 +40,6 @@ July–October 2026
 
 </details>
 
-## Current Focus
-
-- **Backtester:** Building a tool for evaluating trading strategies against historical data.
-- **[ML trading system](https://github.com/rahulprasath-s/ml-trading-system):** Ongoing work on historical market-data collection and validation as a foundation for quantitative analysis.
-
 ## Technical Skills
 
 - **Languages:** Python, TypeScript, JavaScript, SQL.
