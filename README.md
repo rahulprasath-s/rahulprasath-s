@@ -1,63 +1,38 @@
 # Rahulprasath Selvaraj
 
-**AI & Automation Engineer | M.Sc. Human & Artificial Intelligence | Nuremberg, Germany**
+**AI & Automation Engineer** · Nuremberg, Germany
 
-I develop AI applications, automated data pipelines, and full-stack tools, with a focus on LLM integration, retrieval-augmented generation, and reliable backend systems. I am pursuing an M.Sc. in Human & Artificial Intelligence at the University of Technology Nuremberg, building on a B.E. in Computer Science Engineering.
-
-As a working student at **Soccerkinetics (July–October 2026)**, I developed podcast summarization and financial-news monitoring applications and contributed to an internal CRM. My work involved API integrations, background processing, structured extraction, and persistent data storage.
+I build AI applications and automated workflows that make complex information easier to use. My work spans document retrieval, local speech generation, and tools that connect data to everyday decisions.
 
 [Portfolio](https://portfolio-nu-khaki-48.vercel.app) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Email](mailto:rahulprasathselvaraj@gmail.com)
 
-## Experience
+---
 
-**Soccerkinetics — AI & Automation Engineer, Working Student**  
-July–October 2026
+### Selected work
 
-- Developed a podcast summarization application with transcript processing, chapter segmentation, and structured summaries using local inference and configurable model fallback.
-- Built a financial-news monitoring pipeline for collecting German news and press releases, extracting stock identifiers, and reviewing articles through searchable dashboards.
-- Contributed to an internal CRM supporting lead outreach, task coordination, and sales workflows.
-- Implemented backend services and background jobs using Python, FastAPI, PostgreSQL, Redis/RQ, and Docker, with Next.js interfaces.
+| Project | What it does |
+| :--- | :--- |
+| **[Narrator](https://github.com/rahulprasath-s/Narrator)** | A reading and listening studio with Claude rewriting, saved AI briefs, and local CPU speech through KittenTTS Nano. |
+| **[AI Daily Brief](https://github.com/rahulprasath-s/AI-Daily-Brief)** | Collects AI news and model updates, ranks and summarizes stories with NVIDIA NIM, and publishes deduplicated daily briefs to Notion. |
+| **[Local Workspace Context Optimizer](https://github.com/rahulprasath-s/Local-Workspace-Context-Optimizer)** | Reusable workspace context and prompt caching for AI-assisted development. |
+| **[Archisight](https://github.com/rahulprasath-s/3D-Visualization-of-Buildings)** | Interactive 3D building models from map data and manually traced footprints. |
+| **[Careflow Intelligence](https://github.com/rahulprasath-s/Careflow_Intelligence)** | Local retrieval and question answering for medical PDFs, with source passages. |
 
-## Selected Projects
+Also built: [FabricIRIS](https://github.com/rahulprasath-s/FabricIRIS-Textile-Defect), for textile defect detection, and [Sign2Say](https://github.com/rahulprasath-s/Sign2Say), for gesture-to-speech accessibility.
 
-| Project | Description |
-| --- | --- |
-| [Narrator](https://github.com/rahulprasath-s/Narrator) | Turns academic and philosophical text into clear spoken explanations using Claude, with local PDF extraction, a React reading interface, and browser voice playback with synchronized highlighting. |
-| [Local Workspace Context Optimizer](https://github.com/rahulprasath-s/Local-Workspace-Context-Optimizer) | Workspace scanning, reusable context capsules, and prompt caching for AI-assisted development. |
-| [Archisight](https://github.com/rahulprasath-s/3D-Visualization-of-Buildings) | Interactive 3D building models generated from searched or manually traced footprints, with roof controls and export. |
-| [AI Daily Brief](https://github.com/rahulprasath-s/AI-Daily-Brief) | Ranks and summarizes the top 10 AI news items for a daily Notion brief at 08:00 Berlin time. |
-| [Careflow Intelligence](https://github.com/rahulprasath-s/Careflow_Intelligence) | Local document retrieval and question answering for medical PDFs, with source passages. |
-| [Mamba vs LSTM Forecasting](https://github.com/rahulprasath-s/mamba-vs-lstm-forecasting) | A comparative benchmark for climate time-series forecasting using PyTorch. |
+### Experience
 
-<details>
-<summary>Additional projects</summary>
+**Soccerkinetics** · AI & Automation Engineer, Working Student · July–October 2026
 
-- [FabricIRIS](https://github.com/rahulprasath-s/FabricIRIS-Textile-Defect): textile defect detection with YOLO and Core ML.
-- [Sign2Say](https://github.com/rahulprasath-s/Sign2Say): hand-gesture recognition with text and speech output.
-- [Crypto Dashboard CLI](https://github.com/rahulprasath-s/Crypto-Data-in-CLI): cryptocurrency market data in the terminal.
-- [Quiz AI](https://github.com/rahulprasath-s/Quiz-AI): a quiz application built with Vue and TypeScript.
-- [Claude Code Warmup](https://github.com/rahulprasath-s/claude-code-warmup): a scheduled serverless AI warmup workflow.
+Developed podcast summarization and financial-news monitoring applications, including backend integrations, background jobs, and persistent data storage. Contributed to an internal CRM for sales outreach and task coordination.
 
-</details>
+### Background
 
-## Technical Skills
+M.Sc. **Human & Artificial Intelligence**, University of Technology Nuremberg · 2025–present  
+B.E. **Computer Science Engineering**, Sri Eshwar College of Engineering · 2021–2025
 
-- **Languages:** Python, TypeScript, JavaScript, SQL.
-- **AI applications:** RAG, context engineering, prompt caching, structured outputs, Ollama, Qdrant, and LLM APIs.
-- **Web and data:** FastAPI, React, Next.js, PostgreSQL, MongoDB, Redis/RQ, and REST APIs.
-- **Document and speech processing:** Streamlit, pdfplumber, PDF text extraction, and browser speech synthesis with the Web Speech API.
-- **Deployment and automation:** Docker, GitHub Actions, Cloudflare, and n8n.
-- **Applied ML and visualization:** PyTorch, OpenCV, YOLO, Three.js, and geospatial APIs.
+Published [research on making medical reports more accessible](https://ieeexplore.ieee.org/abstract/document/11108371) at ETCC 2025. Awarded **3rd prize at RTSH 2025** for an AI prototype built and pitched in 48 hours.
 
-## Education & Highlights
+---
 
-- **M.Sc. Human & Artificial Intelligence**, University of Technology Nuremberg, 2025–present.
-- **B.E. Computer Science Engineering**, Sri Eshwar College of Engineering, 2021–2025.
-- **3rd prize, RTSH 2025 Hackathon:** built and pitched an AI prototype within 48 hours.
-- **Research:** [AI in Healthcare: Simplifying Medical Reports for Enhanced Patient Comprehension](https://ieeexplore.ieee.org/abstract/document/11108371), ETCC 2025.
-
-## Contact
-
-Open to discussions about AI engineering, automation, and applied research.
-
-[rahulprasathselvaraj@gmail.com](mailto:rahulprasathselvaraj@gmail.com) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Portfolio](https://portfolio-nu-khaki-48.vercel.app)
+Python · TypeScript · React · FastAPI · PostgreSQL · Docker · LLM APIs
