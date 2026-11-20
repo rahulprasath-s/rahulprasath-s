@@ -2,7 +2,7 @@
 
 **AI & Automation Engineer** · Nuremberg, Germany
 
-I build AI applications and automated workflows that make complex information easier to use. My work spans document retrieval, local speech generation, and tools that connect data to everyday decisions.
+I build AI applications, train neural networks, and automate data workflows. My work spans document retrieval, local speech generation, and 3D reconstruction, from data preparation and GPU training to evaluation and model release.
 
 [Portfolio](https://portfolio-nu-khaki-48.vercel.app) · [LinkedIn](https://linkedin.com/in/rahulprasath-s) · [Email](mailto:rahulprasathselvaraj@gmail.com)
 
@@ -20,6 +20,16 @@ I build AI applications and automated workflows that make complex information ea
 
 Also built: [FabricIRIS](https://github.com/rahulprasath-s/FabricIRIS-Textile-Defect), for textile defect detection, and [Sign2Say](https://github.com/rahulprasath-s/Sign2Say), for gesture-to-speech accessibility.
 
+### Trained models
+
+**Koor v1 · Roof wireframe reconstruction**
+
+Trained a [Point2Roof](https://github.com/Li-Li-Whu/Point2Roof)-based network to turn roof point clouds into 3D wireframes. Prepared synthetic data, adapted CUDA operations for university NVIDIA B200 GPUs, and completed training, evaluation, and a weights release.
+
+At 2% corner tolerance, corner/edge micro-F1 reached **0.8891 / 0.8372** on 1,600 synthetic test roofs and **0.0212 / 0.0028** on 561 real Building3D buildings without fine-tuning. Training used synthetic data only; these results show a substantial real-data transfer gap. Outputs need inspection and do not represent complete buildings.
+
+[Source code](https://github.com/rahulprasath-s/Koor) · [Hugging Face weights](https://huggingface.co/Uruva/Koor-building-reconstruction-v1) · [Evaluation methodology](https://github.com/rahulprasath-s/Koor/blob/main/docs/results.md) · [Licensing notes](https://github.com/rahulprasath-s/Koor/blob/main/LICENSING.md)
+
 ### Experience
 
 **Soccerkinetics** · AI & Automation Engineer, Working Student · July–October 2026
@@ -35,4 +45,4 @@ Published [research on making medical reports more accessible](https://ieeexplor
 
 ---
 
-Python · TypeScript · React · FastAPI · PostgreSQL · Docker · LLM APIs
+Python · PyTorch · CUDA · TypeScript · React · FastAPI · PostgreSQL · Docker · LLM APIs
